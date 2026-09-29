@@ -10,7 +10,7 @@ Sementara itu, pembentukan pola visual pada layar memanfaatkan konsep perulangan
 
 ## Unguided 
 
-### 1. (isi dengan soal unguided 1)
+### 1. Program menerima input dua buah bilangan bertipe float, kemudian memberikan output hasil penjumlahan, pengurangan, perkalian dan pembagian dari dua bilangan tersebut.
 
 ```C++
 #include <iostream>
@@ -43,7 +43,7 @@ int main() {
 
 Program ini menerima dua input bilangan float, lalu menghitung dan menampilkan hasil penjumlahan, pengurangan, perkalian, serta pembagian dengan menyertakan validasi kondisi untuk mencegah kesalahan pembagian dengan angka nol.
 
-### 2. (isi dengan soal unguided 2)
+### 2. Program menerima masukan angka dan pengeluaran output nilai angka tersebut dalam bentuk tulisan (bilangan bulat positif 0 s.d 100)
 
 ```C++
 #include <iostream>
@@ -90,8 +90,7 @@ int main() {
 
 Program ini mengonversi angka bulat rentang 0 hingga 100 menjadi ejaan teks bahasa Indonesia dengan memanfaatkan array sebagai tabel acuan kata serta operasi pembagian dan modulo untuk memisahkan digit puluhan dan satuan.
 
-### 3. (isi dengan soal unguided 3)
-
+### 3. Program dapat memberikan input dan output pola mirror
 ```C++
 #include <iostream>
 using namespace std;
